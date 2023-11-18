@@ -3,8 +3,17 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Suat Munuklu Password Generator">
+    <meta name="keywords" content="Password, generator , şifre , oluştur, oluşturucu , generators">
+    <meta name="author" content="Suat Münüklü">
     <title>Password Generator | Şifre Oluşturucu</title>
     <link rel="stylesheet" href="style.css">
+    <style>
+        @media only screen and (max-width: 800px) {
+            body {
+            }
+        }
+    </style>
 </head>
 <body>
     <div class="container">
