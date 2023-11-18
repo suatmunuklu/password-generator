@@ -4,7 +4,8 @@
 - This project is written in php. It is intended to create random passwords.
 - If you want other articles or project follow this web page : https://www.suatmunuklu.com
 
-<img width="722" alt="Example-1" src="https://github.com/suatmunuklu/password-generator/assets/151174452/13fa3d61-05da-4cb6-84db-0de9dd637700">
+<img width="353" alt="Example-2" src="https://github.com/suatmunuklu/password-generator/assets/151174452/c11aa92b-aca1-4a68-8ee8-c6a5a73679e9">
+
 
 
 <!---
