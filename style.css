@@ -1,19 +1,25 @@
 body {
     font-family: 'Arial', sans-serif;
-    background-color: #f4f4f4;
+    background-image: url('background.jpg'); 
+    background-size: cover;
     margin: 0;
     padding: 0;
     display: flex;
     align-items: center;
     justify-content: center;
-    height: 100vh;
+    min-height: 100vh;
+    box-sizing: border-box; 
 }
 
 .container {
-    background-color: #fff;
+    background-color: rgba(255, 255, 255, 0.9);
     padding: 20px;
     border-radius: 8px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    width: 100%; 
+    max-width: 600px; 
+    margin: 0 auto; 
+    box-sizing: border-box; 
 }
 
 h1 {
@@ -50,4 +56,10 @@ button {
 
 button:hover {
     background-color: #0056b3;
+}
+
+@media only screen and (max-width: 768px) {
+    .container {
+        padding: 10px;
+    }
 }
